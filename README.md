@@ -11,8 +11,8 @@
 **Clone the repo:**
 
 ```bash
-git clone https://github.com/ngdong/node-typescript-starter
-cd node-typescript-starter
+git clone https://github.com/ngdong/nodejs-typescript-starter
+cd nodejs-typescript-starter
 pnpm i
 ```
 
